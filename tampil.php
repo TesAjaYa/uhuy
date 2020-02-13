@@ -8,6 +8,7 @@
 
  <body>
 
+     <h1>Tes Bang</h1>
      <?= 'Selamat datang S ' . $_POST['username'] ?>
 
  </body>
