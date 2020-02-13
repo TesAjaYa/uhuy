@@ -7,10 +7,12 @@
  </head>
 
  <body>
+     <?= 'Selamat datang S ' . $_POST['username'] ?>
+
 
      <?= 'Selamat datang S ' . $_POST['username'] ?>
 
-<h2>Bacod</h2>
+<h2>ayyy</h2>
  </body>
 
  </html>
