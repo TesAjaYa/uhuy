@@ -16,10 +16,7 @@
 	<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae soluta animi aut quibusdam asperiores quaerat sequi laudantium voluptatem, optio ab dolorum ut pariatur aliquam obcaecati porro a atque mollitia sapiente ipsum perferendis? Temporibus a nam laborum totam magnam tenetur inventore, cum placeat, necessitatibus quia cumque? Possimus corporis aspernatur sequi maiores rerum minima aperiam facere aliquam cum fugit, harum incidunt provident id commodi voluptas velit ex sit architecto tempore ullam ipsum vel? Mollitia, quas expedita qui rem nam porro unde autem distinctio corrupti voluptas ex vero, repellat tempora quia ab recusandae.</p>
 
 
-	<table>
-		<th>
-		<td>Salom</td>
-		<td>Salom</td>
+	<table>	
 		</th>
 		<tr>
 			<td>ok</td>
