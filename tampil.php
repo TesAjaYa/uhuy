@@ -4,6 +4,7 @@
      <meta charset="UTF-8">
      <title>Document</title>
  </head>
+<<<<<<< HEAD
  <style>
      h1{
         padding: 5px;
@@ -19,5 +20,11 @@
 
 
 
+=======
+ <body>
+     
+     <?= 'Selamat datang '.$_POST['username'] ?>
+
+>>>>>>> fc2fdf08fa8c223185c54d2dfcdb1ab85dfc28aa
  </body>
  </html>

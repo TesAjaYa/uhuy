@@ -1,10 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
 	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Document</title>
 </head>
+
 <body>
-	Selamat datang User
+	<h1>Saloom</h1>
+	<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Id tenetur a officia saepe, expedita labore eius sequi ducimus quam, nisi magnam nostrum aperiam debitis animi cupiditate ratione ad sit eaque? Cupiditate, a doloremque? Necessitatibus dolores explicabo quo tenetur ex iure illum quam error officiis, ab dolorem. Magnam excepturi, odit similique accusantium quidem soluta rerum ipsam corporis deserunt enim laborum quaerat molestias sit consequatur necessitatibus quod mollitia vel dolore a. Labore, officia dolor nesciunt aut doloribus soluta commodi, iusto aliquid minus culpa eius eveniet natus quos maxime similique! Atque, maiores dolore doloremque, ut alias et pariatur necessitatibus at perferendis qui hic sint fuga officiis veniam nulla explicabo delectus suscipit nihil aspernatur minima! Aliquid corporis, in laborum perferendis soluta architecto excepturi earum. Unde ex voluptatibus rem tenetur est, cumque itaque sed inventore? Quibusdam impedit rerum tenetur nam animi, molestiae dolore id illo placeat quisquam error eius laudantium libero officia itaque blanditiis. Numquam, voluptas ducimus. Doloribus aliquid obcaecati impedit sint ducimus iure at cum debitis dicta alias dolores eligendi velit, deleniti eius necessitatibus sequi repellendus. Corporis magni hic similique consequuntur fugit tempora nihil sapiente repudiandae enim voluptate, reprehenderit blanditiis. Praesentium ullam, nihil, cupiditate, suscipit magnam quibusdam fugit hic quisquam necessitatibus tempora deleniti adipisci quaerat natus doloribus dolore sequi! Maiores aliquid debitis praesentium officia consequatur voluptatum, facilis modi explicabo quia, ipsum numquam deserunt ullam qui pariatur laudantium nobis neque a nihil deleniti quisquam. Iste animi eos amet odio maiores mollitia nesciunt fugiat. Aliquid, obcaecati ipsum incidunt tempora id cum nam, vel ad veritatis saepe voluptate cumque non sunt ipsam accusamus iste enim dolore aspernatur ullam necessitatibus exercitationem reiciendis beatae! Est illo tenetur non voluptas! Cupiditate quae voluptatum, placeat numquam fugiat maxime nobis eligendi mollitia cum alias eum explicabo! Eaque sint quidem sit atque accusantium. Sequi obcaecati impedit ab rem, sed voluptas quia temporibus suscipit nulla, dignissimos repellat nisi, molestias assumenda! Nostrum iusto nesciunt labore temporibus recusandae illo commodi inventore reiciendis sed, quaerat minus doloribus quas odit corporis repudiandae. Voluptates consequuntur a dicta magni nam aliquid iusto molestiae ratione soluta minima enim sequi, maiores maxime voluptate nostrum eos nesciunt debitis fugiat quam laudantium accusamus optio neque natus ad. Enim assumenda repellendus voluptatem quis minus ad optio nesciunt necessitatibus in pariatur eum tempora et vitae adipisci esse consequatur, architecto sed alias facere dolores? Mollitia deleniti delectus aspernatur ab eligendi odit eum dicta molestiae nobis, iste incidunt, rerum eos, error provident minima culpa natus commodi. Adipisci, mollitia?git</p>
 </body>
+
 </html>
