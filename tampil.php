@@ -1,19 +1,23 @@
  <!DOCTYPE html>
  <html lang="en">
-
  <head>
      <meta charset="UTF-8">
      <title>Document</title>
  </head>
-
+ <style>
+     h1{
+        padding: 5px;
+        background: red;
+     }
+ </style>
  <body>
-     <?= 'Selamat datang S ' . $_POST['username'] ?>
+     
+     <?= 'Selamat datang '.$_POST['username'] ?>
 
 
-     <h1>Tes Bang</h1>
-     <?= 'Selamat datang S ' . $_POST['username'] ?>
+<h1> Hayyyy Janco</h1>
 
-<h2>ayyy</h2>
+
+
  </body>
-
  </html>
